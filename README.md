@@ -14,7 +14,7 @@ Leveraging SQL, Python, and data visualization techniques, this project aims to 
 - [Business Problem Questions](#business-problem-questions)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Details
 
