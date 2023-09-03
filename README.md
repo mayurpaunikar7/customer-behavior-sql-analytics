@@ -22,7 +22,7 @@ Leveraging SQL, Python, and data visualization techniques, this project aims to 
 
 The dataset is structured into a database schema that includes tables for customers, orders, products, payments, and more. 
 Understanding this schema is essential for comprehending the relationships and dependencies between different data elements.
-![alt text]()
+![alt text](https://github.com/mayurpaunikar7/customer-behavior-sql-analytics/blob/main/Customers_Database_Schema_JPG/Customer_Database_Schema.JPG.png)
 
 ### SQL Queries
 
