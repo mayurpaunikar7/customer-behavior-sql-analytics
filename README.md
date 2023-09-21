@@ -6,6 +6,9 @@ This project delves into the analysis of customer buying behavior, company behav
 The primary objective is to extract valuable insights from the dataset using SQL queries and provide meaningful answers to critical business questions. 
 Leveraging SQL, Python, and data visualization techniques, this project aims to empower decision-makers with data-driven insights.
 
+## Problem Statement:
+This project involves analyzing customer buying behavior, company behavior, sales, profits, losses, and various business metrics using SQL analytics. The challenge is to extract valuable insights from a complex dataset with multiple interconnected tables, including customers, orders, products, payments, and more. This analysis will empower decision-makers with data-driven insights to optimize business strategies.
+
 ## Table of Contents
 
 - [Project Details](#project-details)
