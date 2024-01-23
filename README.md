@@ -2,12 +2,12 @@
 
 ## 🌟 Project Overview
 
-* This project delves into the analysis of customer buying behavior, company behavior, sales, profits, losses, and various business metrics. 
+* This project delves into the analysis of customer buying behaviour, company behaviour, sales, profits, losses, and various business metrics. 
 * The primary objective is to extract valuable insights from the dataset using SQL queries and provide meaningful answers to critical business questions. 
 * Leveraging SQL, Python, and data visualization techniques, this project aims to empower decision-makers with data-driven insights.
 
 ## 🚀 Problem Statement:
-- This project involves analyzing customer buying behavior, company behavior, sales, profits, losses, and various business metrics using SQL analytics.
+- This project involves analyzing customer buying behaviour, company behaviour, sales, profits, losses, and various business metrics using SQL analytics.
 - The challenge is to extract valuable insights from a complex dataset with multiple interconnected tables, including customers, orders, products, payments, and more.
 - This analysis will empower decision-makers with data-driven insights to optimize business strategies.
 
@@ -43,13 +43,13 @@ Each query is designed to address specific business problems and provide actiona
 ![alt text](https://github.com/mayurpaunikar7/customer-behavior-sql-analytics/blob/main/SCHEMA/Dashboard%20Home%20Page.jpeg)
 
 ### Page 2
-![alt text](https://github.com/mayurpaunikar7/customer-behavior-sql-analytics/blob/main/SCHEMA/Dashboard%20Home%20Page.jpeg)
+![alt text](https://github.com/mayurpaunikar7/customer-behavior-sql-analytics/blob/main/SCHEMA/Dashboard%20Page%202.jpeg)
 
 ### ❓ Business Problem Questions
 
 The project seeks to answer several business problem questions, including:
 - What are the top-selling products by category?
-- How do customer demographics correlate with buying behavior?
+- How do customer demographics correlate with buying behaviour?
 - What is the trend in monthly sales and profits?
 - Who are the top-spending customers, and what are their characteristics?
 - How does payment method usage vary over time?
@@ -59,7 +59,7 @@ The project seeks to answer several business problem questions, including:
 1. Clone this repository to your local machine.
 2. Import the provided dataset into your SQL database system.
 3. Open and execute SQL queries in your preferred SQL environment (e.g., MySQL Workbench, SQLite).
-4. Explore the query results and the provided analysis to gain insights into customer behavior and business performance.
+4. Explore the query results and the provided analysis to gain insights into customer behaviour and business performance.
 
 ## 🤔 Challenges Faced
 
@@ -71,7 +71,7 @@ The project seeks to answer several business problem questions, including:
 
 ## 📈 Insights Derived
 
-- **Customer Behavior**: Analysis of customer buying patterns, order frequencies, and preferences helped in understanding customer segments and tailoring marketing strategies.
+- **Customer Behavior**: Analysis of customer buying patterns, order frequencies, and preferences helped understand customer segments and tailoring marketing strategies.
 
 - **Profit and Loss**: Examining sales, profit margins, and losses across products and categories provided insights into areas for cost optimization and revenue generation.
 
@@ -83,7 +83,7 @@ The project seeks to answer several business problem questions, including:
 
 - **Real-Time Dashboards**: Create real-time dashboards for monitoring key business metrics and providing decision-makers with up-to-the-minute insights.
 
-- **Customer Segmentation**: Refine customer segmentation strategies based on deeper analysis of customer demographics and behavior.
+- **Customer Segmentation**: Refine customer segmentation strategies based on deeper analysis of customer demographics and behaviour.
 
 - **Data Integration**: Integrate external data sources to enhance the depth and accuracy of analysis, including economic indicators and competitor data.
 
