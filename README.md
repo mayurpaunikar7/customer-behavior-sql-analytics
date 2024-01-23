@@ -38,7 +38,7 @@ The project employs a series of SQL queries to extract, transform, and analyze d
 These queries range from basic data retrieval to complex aggregations and joins. 
 Each query is designed to address specific business problems and provide actionable insights.
 
-## Dashboard
+## 📊 Power BI Dashboard
 ### HomePage
 ![alt text](https://github.com/mayurpaunikar7/customer-behavior-sql-analytics/blob/main/SCHEMA/Dashboard%20Home%20Page.jpeg)
 
