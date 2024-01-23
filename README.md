@@ -38,6 +38,9 @@ The project employs a series of SQL queries to extract, transform, and analyze d
 These queries range from basic data retrieval to complex aggregations and joins. 
 Each query is designed to address specific business problems and provide actionable insights.
 
+### Dashboard
+![alt text](https://github.com/mayurpaunikar7/customer-behavior-sql-analytics/blob/main/SCHEMA/Dashboard.jpeg)
+
 ### ❓ Business Problem Questions
 
 The project seeks to answer several business problem questions, including:
