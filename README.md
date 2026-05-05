@@ -1,4 +1,4 @@
-# 📊 Customer Behavior and Business Analysis: SQL Analytics
+# 📊 Customer Behavior and Business Analysis
 
 ## 🌟 Project Overview
 
