@@ -1,4 +1,4 @@
-# 📊 Customer Behavior and Business Analysis
+# 📊 E-Commerce Business Analysis
 
 ## 🌟 Project Overview
 
